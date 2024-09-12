@@ -122,6 +122,8 @@ h1, h2, h3, h4, h5{
 }
 
 .section-title{
+  position: relative;
+  z-index: 1;
   width: 60%;
   margin: 0 auto 20px;
   text-align: center;
@@ -297,11 +299,11 @@ h1, h2, h3, h4, h5{
   font-weight: 500;
 }
 
+.footer__column_content_social .column__link{
+  color: #c9c9c9;
+}
+
 .column__link{
   color: white;
   text-decoration: none;
-}
-
-.footer__column_content_social .column__link{
-  color: #c9c9c9;
 }
