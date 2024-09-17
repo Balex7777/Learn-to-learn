@@ -3,6 +3,11 @@
 }
 
 .column__link{
+  transition: .3s;
   color: white;
   text-decoration: none;
+}
+
+.column__link:hover{
+  opacity: .7;
 }
