@@ -2,6 +2,6 @@
   display: flex;
   justify-content: space-between;
   align-self: center;
-  margin: 100px auto;
+  margin: auto;
   width: 80%;
 }

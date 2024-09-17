@@ -3,7 +3,7 @@
   position: absolute;
   right: 48px;
   top: 50%;
-  color: #2f80ed;
+  color: var(--blue);
   text-decoration: none;
   line-height: 51px;
   font-size: 36px;
